@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turk9", "8HW\Turk9.csproj", "{D5F7925B-13AD-482B-A4E6-C9F988A7EC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 HW", "8 HW\8 HW.csproj", "{BBF38A75-EEB8-4659-B137-3F721BA7FE4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{871F7B17-51EF-475A-9FDE-6969EE1E1519}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F7925B-13AD-482B-A4E6-C9F988A7EC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F7925B-13AD-482B-A4E6-C9F988A7EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F7925B-13AD-482B-A4E6-C9F988A7EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F7925B-13AD-482B-A4E6-C9F988A7EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF38A75-EEB8-4659-B137-3F721BA7FE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF38A75-EEB8-4659-B137-3F721BA7FE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF38A75-EEB8-4659-B137-3F721BA7FE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF38A75-EEB8-4659-B137-3F721BA7FE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E752C27-B1D1-49FC-9290-A2BEA27AF941}
+	EndGlobalSection
+EndGlobal
